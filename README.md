@@ -3,9 +3,17 @@
 
 O código tem uma interação simples, ao abrir, você só precisa especificar a quantidade de caractéres, e se a senha terá ou não caracteres especiais e o programa irá gerar uma senha aleatória com uma variação de letras números e caractéres especiais.
 
-## Índice (opcional)
+## Índice 
 
 -[Uso](#Uso)
+-[Autores e Agradecimentos](#Autores)
+
+## Autores e Agradecimentos 
+
+Nomes dos principais colaboradores e agradecimentos a quem ajudou no desenvolvimento do projeto.
+
+- Raike  - *Trabalho Inicial* - [GitHub](https://github.com/eeRaike)
+- Leo - *Contribuições* - [GitHub](https://github.com/LeoSouzaSenac)
 
 ## Uso
 
