@@ -1,7 +1,7 @@
 function generatePassword(length,includeSpecialChars){
 
 
-const charset = "abcdefghijklmnopqrstuvwxyz";
+const charset = "abcdefghijklmnopqrstuvwxyz1234567890";
 const specialCharset = "!@#$%^&*()_+~'";
 const allChars = includeSpecialChars ? charset + specialCharset : charset;
 let random = 0;
@@ -19,4 +19,4 @@ for (let i = 0; i < length; i++) {
 
 }
 
-console.log("Nova senha aleatória> " + generatePassword(5,true));
+console.log("Nova senha aleatória> " + generatePassword(10,false));
