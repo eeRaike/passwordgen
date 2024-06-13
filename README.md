@@ -6,8 +6,7 @@ O código tem uma interação simples, ao abrir, você só precisa especificar a
 
 ## Uso
 
-#### Para usar o gerador de senhas
-Você só precisa especificar a quantidade de caractéres, e se serão usados caractéres especiais
+Para usar o gerador de senhas você só precisa especificar a quantidade de caractéres, e se serão usados caractéres especiais
 ![Como usar!](https://github.com/eeRaike/passwordgen/blob/main/print.png "teste")
 
 Após isso, é só executar no terminal o comando:
